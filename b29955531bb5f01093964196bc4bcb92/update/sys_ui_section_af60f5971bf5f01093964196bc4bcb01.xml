@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Details" section_id="af60f5971bf5f01093964196bc4bcb01" sys_domain="global" table="x_650610_salesmgmt_sale" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_sale</element>
+            <position>0</position>
+            <sys_created_by>allen.linatoc</sys_created_by>
+            <sys_created_on>2021-08-11 09:56:46</sys_created_on>
+            <sys_id>b231311b1bf5f01093964196bc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_650610_salesmgmt_sale" sys_domain="global" view="Default view">af60f5971bf5f01093964196bc4bcb01</sys_ui_section>
+            <sys_updated_by>allen.linatoc</sys_updated_by>
+            <sys_updated_on>2021-08-11 09:56:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>allen.linatoc</sys_created_by>
+            <sys_created_on>2021-08-11 09:56:46</sys_created_on>
+            <sys_id>3631311b1bf5f01093964196bc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_650610_salesmgmt_sale" sys_domain="global" view="Default view">af60f5971bf5f01093964196bc4bcb01</sys_ui_section>
+            <sys_updated_by>allen.linatoc</sys_updated_by>
+            <sys_updated_on>2021-08-11 09:56:46</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>2</position>
+            <sys_created_by>allen.linatoc</sys_created_by>
+            <sys_created_on>2021-08-11 09:56:46</sys_created_on>
+            <sys_id>b631311b1bf5f01093964196bc4bcbce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_650610_salesmgmt_sale" sys_domain="global" view="Default view">af60f5971bf5f01093964196bc4bcb01</sys_ui_section>
+            <sys_updated_by>allen.linatoc</sys_updated_by>
+            <sys_updated_on>2021-08-11 09:56:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Details</caption>
+            <header>false</header>
+            <name>x_650610_salesmgmt_sale</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>allen.linatoc</sys_created_by>
+            <sys_created_on>2021-08-11 09:53:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af60f5971bf5f01093964196bc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_650610_salesmgmt_sale</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sales Management" source="x_650610_salesmgmt">b29955531bb5f01093964196bc4bcb92</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales Management">b29955531bb5f01093964196bc4bcb92</sys_scope>
+            <sys_update_name>sys_ui_section_af60f5971bf5f01093964196bc4bcb01</sys_update_name>
+            <sys_updated_by>allen.linatoc</sys_updated_by>
+            <sys_updated_on>2021-08-11 09:53:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
