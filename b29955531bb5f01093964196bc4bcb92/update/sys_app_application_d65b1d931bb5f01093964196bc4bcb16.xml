@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Sales Management</name>
+        <order>100</order>
+        <roles>x_650610_salesmgmt.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>allen.linatoc</sys_created_by>
+        <sys_created_on>2021-08-11 08:21:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d65b1d931bb5f01093964196bc4bcb16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sales Management" source="x_650610_salesmgmt">b29955531bb5f01093964196bc4bcb92</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sales Management">b29955531bb5f01093964196bc4bcb92</sys_scope>
+        <sys_update_name>sys_app_application_d65b1d931bb5f01093964196bc4bcb16</sys_update_name>
+        <sys_updated_by>allen.linatoc</sys_updated_by>
+        <sys_updated_on>2021-08-11 08:21:09</sys_updated_on>
+        <title>Sales Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
